@@ -10,14 +10,14 @@ locale                   : "en-US"
 title                    : "Lee Zhi Cheng"
 title_separator          : "-"
 name                     : &name "Zhi Cheng"
-description              : &description "personal description"
+description              : &description "Currently pursuing a Master's degree at Tsinghua University. My passion lies in the realm of artificial intelligence, with a strong focus on computer vision. I bring over 1.5 years of valuable hands-on experience gained from working in a dynamic startup environment, where I've contributed to innovative projects and honed my skills in the field. I'm eager to continue exploring the frontiers of AI and contributing to its exciting developments."
 url                      : https://zhicheng0326.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZhiCheng0326/ZhiCheng0326.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -73,21 +73,21 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "custom" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Lee Zhi Cheng"
+  avatar           : "lzc_white.jpg"
+  bio              : "Master's student at Tsinghua University"
+  location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : 
+  email            :  
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "zhi-cheng-lee-2989b9137"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "l_zhicheng"
   vine             :
   weibo            :
   xing             :
