@@ -33,7 +33,7 @@ This note includes insights from Yann LeCun, often referred to as the father of 
 - Learning to **fill in the blanks**
 - Example in NLP domain:
     - Sentence is masked/corrupted:
-        - The sun was shining brightly in the clear blue sky. → The sun was shining ____ in the clear blue ____ .
+        - The sun was shining brightly in the clear blue sky. → The sun was shining __ in the clear blue __ .
 - In the process of learning to fill in the blank, the model **learned the representation of natural language**
 
 ### Why is SSL effective in text but not as much in images?
