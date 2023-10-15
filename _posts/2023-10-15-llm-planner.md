@@ -37,7 +37,7 @@ This paper introduces LLM-Planner, which utilizes LLMs as high-level planners fo
 ## Overview
 
 - **Design appropriate prompt:**
-    - Appropriate prompt helps to guide LLM to generate HLPs
+    - Appropriate prompt helps to guide LLM to generate high-level plans (HLP)s
 - **kNN retriever:**
     - The authors adopt kNN to retrieve similar examples for LLM to perform in-context learning
 - **Grounded re-planning algorithm:**
