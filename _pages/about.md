@@ -15,10 +15,14 @@ Prior to embarking on my master's journey, I had the privilege of gaining valuab
 
 I earned my Bachelor's Degree in Automation from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) where I conducted research in various areas, including Semi-Supervised Learning and Graph Neural Networks. My enthusiasm for learning and self-improvement drives me forward.
 
-I am expected to <span style="color:red">graduate in June 2025</span> and am actively <span style="color:red">seeking job opportunities</span> in the fields of LLM, RAG, and related areas. If you think we could be a good fit, I'd love to connect!
+<!-- I am expected to <span style="color:red">graduate in June 2025</span> and am actively <span style="color:red">seeking job opportunities</span> in the fields of LLM, RAG, and related areas. If you think we could be a good fit, I'd love to connect! -->
 
 ## Publications
-DiaKoP: Dialogue-based Knowledge-oriented Programming for Neural-symbolic Knowledge Base Question Answering
+[ReaRAG: Knowledge-guided Reasoning Enhances Factuality of Large Reasoning Models with Iterative Retrieval Augmented Generation](https://arxiv.org/abs/2503.21729)   
+**Zhicheng Lee**, Shulin Cao, Jinxin Liu, Jiajie Zhang, Weichuan Liu, Xiaoyin Che, Lei Hou, Juanzi Li.  
+ArXiv, 2025 
+
+[DiaKoP: Dialogue-based Knowledge-oriented Programming for Neural-symbolic Knowledge Base Question Answering](https://dl.acm.org/doi/abs/10.1145/3627673.3679229)  
 **Zhicheng Lee\***, Zhidian Huang\*, Zijun Yao, Jinxin Liu, Amy Xin, Lei Hou, Juanzi Li.  
 Conference on Information and Knowledge Management (CIKM demo track), 2024 
 
