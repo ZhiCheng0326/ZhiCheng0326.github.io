@@ -7,9 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, I'm Zhi Cheng, currently a master's student at the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/) in [Tsinghua University](https://www.tsinghua.edu.cn/en/), supervised by [Prof. Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/). 
+Hello, I’m Zhi Cheng, currently an LLM Algorithm Engineer at Z.ai (Zhipu AI).
 
-My recent work includes performing supervised fine-tuning (SFT) on large language model (LLM) for downstream tasks, neuro-symbolic reasoning with LLM for knowledge-based question answering (KBQA), as well as retrieval-augmented generation (RAG).   
+My recent work includes integrating strong reasoning with iterative retrieval-augmented generation (RAG), performing supervised fine-tuning (SFT) on large language model (LLM) for downstream tasks, as well as neuro-symbolic reasoning with LLM for knowledge-based question answering (KBQA). 
+
+I earned my Master’s Degree in [Computer Science and Technology](https://www.cs.tsinghua.edu.cn/) from [Tsinghua University](https://www.tsinghua.edu.cn/en/), as a member of the [KEG Lab](https://keg.cs.tsinghua.edu.cn/team) under the supervision of [Prof. Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/).
 
 Prior to embarking on my master's journey, I had the privilege of gaining valuable work experience at startup, particularly in the development of face anti-spoofing and voice cloning projects.
 
