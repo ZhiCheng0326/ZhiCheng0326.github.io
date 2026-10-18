@@ -1,3 +1,13 @@
+## [Unreleased]
+
+### Added
+
+- Add October 2026 English and Chinese resume downloads.
+
+### Changed
+
+- Refresh the professional profile, CV timeline, site metadata, and publication lists.
+
 ## [3.4.2](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.4.2)
 
 ### Enhancements

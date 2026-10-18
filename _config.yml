@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lee Zhi Cheng"
 title_separator          : "-"
 name                     : &name "Zhi Cheng"
-description              : &description "Currently pursuing a Master's degree at Tsinghua University. My passion lies in the realm of artificial intelligence, with a strong focus on computer vision. I bring over 1.5 years of valuable hands-on experience gained from working in a dynamic startup environment, where I've contributed to innovative projects and honed my skills in the field. I'm eager to continue exploring the frontiers of AI and contributing to its exciting developments."
+description              : &description "Applied AI Engineer at Z.AI (Zhipu AI), leading the design and delivery of enterprise agent applications, with experience in Agent Harness development, RAG, and LLM fine-tuning."
 url                      : https://zhicheng0326.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZhiCheng0326/ZhiCheng0326.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lee Zhi Cheng"
   avatar           : "lzc.png"
-  bio              : "Master's student at Tsinghua University"
+  bio              : "Applied AI Engineer at Z.AI"
   location         : "Beijing, China"
   employer         :
   pubmed           : 

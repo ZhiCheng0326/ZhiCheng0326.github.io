@@ -9,23 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-**Updated in Aug 2024**  
-[English Resume](/files/CV_ZhichengLee_EN_2024.pdf)  
-[Chinese Resume](/files/CV_ZhichengLee_CN_2024.pdf)
+**Updated in Oct 2026**<br>
+[English Resume](/files/CV_ZhichengLee_EN_2026.pdf)<br>
+[Chinese Resume](/files/CV_ZhichengLee_CN_2026.pdf)
 
 
 ## Education
-* Master in Advanced Computing. Tsinghua University, Beijing, CN (Sep 2023 – Now).
+* Master in Advanced Computing. Tsinghua University, Beijing, CN (Sep 2023 – Jun 2025).
 * Bachelor of Engineering in Automation. Shanghai Jiao Tong University, Shanghai, CN. (Sep 2017 – June 2021).
 * GCE A-Levels.  Tunku Abdul Rahman University of Management and Technology, Kuala Lumpur, Malaysia (2015.05 -- 2016.11).
 
 ## Work/Internship Experience
-* LLM Algorithm Engineer Intern (Jul 2024 - Now)  
-**Zhipu AI**, Beijing, China
+* AI Application Engineer (Aug 2025 – Present)<br>
+**Z.ai (Zhipu AI)**, Beijing, China
+
+  * Develop enterprise agent applications, focusing on Agent Harness design, multi-agent orchestration, and tool integration.
+  * Lead technical planning and delivery, working with domain experts to translate business workflows into Agent capabilities.
+
+* LLM Algorithm Engineer Intern (Jul 2024 – May 2025)<br>
+**Z.ai (Zhipu AI)**, Beijing, China
 
   * **Agentic RAG**
     * Conducted a comparative analysis of the company's existing RAG framework against QWEN-Agent and the long-context model GLM-9B-128k.
     * Prepared evaluation scripts and datasets, including HotpotQA and NQ, augmented with additional distractors to increase difficulty.
+    * Worked on reasoning-enhanced RAG through training data construction, supervised fine-tuning, and model evaluation.
 
 
 * AI Engineer (Nov 2021 - Aug 2023)    
@@ -42,6 +49,10 @@ redirect_from:
     * Led the development of a functional prototype of a digital avatar with voice cloning abilities.
 
 ## Research/Project Experience
+* ReaRAG: Knowledge-guided Reasoning Enhances Factuality of Large Reasoning Models with Iterative Retrieval Augmented Generation
+  * Reasoning-enhanced RAG combining iterative retrieval with supervised fine-tuning for factual question answering.
+  * [Paper](https://arxiv.org/abs/2503.21729)
+
 * DiaKoP: Dialogue-based Knowledge-oriented Programming for Neural-symbolic Knowledge Base Question Answering (**CIKM** demo track 2024) 
   * Developed a dialogue-based knowledge-intensive question answering system.
   * Designed and implemented both the frontend and backend of the system.
