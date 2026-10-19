@@ -6,6 +6,7 @@
 
 ### Changed
 
+- Standardize dates to YYYY.MM in the 2026 Chinese and English resume PDFs.
 - Refresh the professional profile, CV timeline, site metadata, and publication lists.
 
 ## [3.4.2](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.4.2)
