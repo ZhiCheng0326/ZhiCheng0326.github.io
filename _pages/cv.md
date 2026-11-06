@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Updated in Oct 2026**<br>
+**Updated in Nov 2026**<br>
 [English Resume](/files/CV_ZhichengLee_EN_2026.pdf)<br>
 [Chinese Resume](/files/CV_ZhichengLee_CN_2026.pdf)
 
