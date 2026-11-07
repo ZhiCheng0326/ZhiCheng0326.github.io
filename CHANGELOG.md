@@ -6,6 +6,7 @@
 
 ### Changed
 
+- Replace the November 2026 English and Chinese resume PDFs with the latest v2 revisions.
 - Update English and Chinese resume downloads to November 2026 and refresh the CV page date.
 - Standardize dates to YYYY.MM in the 2026 Chinese and English resume PDFs.
 - Refresh the professional profile, CV timeline, site metadata, and publication lists.
